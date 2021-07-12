@@ -3,3 +3,4 @@ A Tool which Compiles C Source file Manually in Terminal Without using any IDE, 
 
 <h1>Compiling...</h1>
 <img src="https://media.giphy.com/media/l41m3eyKELdZ7vEZ2/giphy.gif">
+<img src="https://github.com/QuantumByteStudios/C-Source-Compiler-Manual-Tool/blob/main/source-code-files/ManualTool.ico">
