@@ -1,5 +1,5 @@
 #Author & Developer
-#	Quantum Dyte Studios
+#	Quantum Byte Studios
 #		Visit: http://quantumbyteofficial.tech/
 import os
 
